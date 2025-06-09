@@ -1,0 +1,1 @@
+# Strategy document templates for different domains

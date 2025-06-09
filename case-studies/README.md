@@ -1,0 +1,1 @@
+# Real-world examples of strategy implementation
