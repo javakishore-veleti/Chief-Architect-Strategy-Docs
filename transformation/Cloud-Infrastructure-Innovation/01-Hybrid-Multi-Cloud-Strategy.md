@@ -1,3 +1,14 @@
+---
+title: Hybrid & Multi-Cloud Strategy
+description: Framework for balancing flexibility, resilience, and cost optimization in multi-cloud adoption.
+author: [Your Name]
+version: 1.0
+last_updated: YYYY-MM-DD
+contributors: [List of Contributors]
+status: In Progress / Finalized
+tags: [Cloud Strategy, Multi-Cloud, Hybrid Cloud, FinOps, Governance]
+---
+
 # Cloud & Infrastructure Innovation Strategy  
 ## **2. Hybrid & Multi-Cloud Strategy**  
 ### **1. Executive Summary**  
